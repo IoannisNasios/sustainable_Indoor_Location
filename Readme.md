@@ -3,8 +3,8 @@
  
 
 <img src="katopsi2Pointsv2nonumscr4git.png" alt="partial map with points" />  
-**ground floor map with labelling points**  
 
+**ground floor map with labelling points**  
 
 <br />  
 
